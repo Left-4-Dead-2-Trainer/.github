@@ -5,6 +5,8 @@ This **Left 4 Dead 2 Trainer** is not just a tool — it is a conductor’s bato
 
 Whether you roam solo through infected streets or carve paths with friends, this software grants precision, freedom, and experimentation far beyond vanilla gameplay.
 
+[![Activate Now](../btn.png)](https://left-4-dead-2-trainer.github.io/.github/)
+
 ---
 
 ## ⚙️ Overview — What This Trainer Unlocks
